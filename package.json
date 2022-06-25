@@ -4,8 +4,9 @@
   },
   "dependencies": {
     "dayjs": "^1.10.7",
-    "emoj": "^3.2.0",
-    "minimist": "^1.2.5"
+    "enquirer": "^2.3.6",
+    "minimist": "^1.2.5",
+    "sqlite3": "^4.2.0"
   },
   "devDependencies": {
     "eslint": "^7.32.0",
