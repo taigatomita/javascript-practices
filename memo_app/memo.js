@@ -23,8 +23,6 @@ class Memo {
       await this.showMemoContent()
     } else if (this.option === '-d') {
       await this.deleteMemo()
-    } else {
-      ;
     }
   }
 
